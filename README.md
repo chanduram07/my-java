@@ -1,2 +1,2 @@
 # my-java
-Java coding
+Java coding.
