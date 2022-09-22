@@ -88,7 +88,6 @@ public class MaxNumberOfSubstrings01 {
             }
 
             if (sum == 0) {
-                subStrCount++;
             }
         }
 
