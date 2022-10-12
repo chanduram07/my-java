@@ -3,13 +3,19 @@ package test;
 public class Test {
 
 
-        static void fun(int[]arr) {
+       /* static void fun(int[][]arr) {
 
-            arr[3] = 98;
+            int maxSum = 0;
 
-            return;
+            int sum = 0
+            for (int i = 0;i<N;i++)
+            {
+               println(A[i][i])
+            }
+                 return sum;
 
-        }
+
+        }*/
 
 
 
@@ -17,7 +23,7 @@ public class Test {
 
             int[]arr = {10,20,30,40,50};
 
-            fun(arr);
+            //fun(arr);
 
             System.out.println(arr[3]);
 
